@@ -145,7 +145,11 @@ header h5 {
 
 /* meet some customers */
 
-.meet
+.meet {
+	position: absolute;
+	left: -140px;
+	top: 70px;
+}
 
 
 
