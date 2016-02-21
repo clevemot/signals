@@ -151,7 +151,36 @@ header h5 {
 	top: 70px;
 }
 
+.meet a {
+	display: block;
+	width: 143px;
+	height: 104px;
+	background: url('...img/img-customers.png') no-repeat 0 0;
+	text-indent: -1000em;
+}
+.meet a:hover {
+	background-position: 0 100%
+	}
 
+.meet p {
+	font-size: 14px;
+	text-align: center;
+	color: #369;
+}
+
+.meet p:hover {
+	color: #69;
+	text-decoration: underline;
+}
+
+/* red arrow image */
+
+.arrow-left {
+	width: 69px;
+	height: 36px;
+	position: relative;
+	top: -35px;
+}
 
 
 
